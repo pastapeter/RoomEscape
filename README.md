@@ -9,6 +9,12 @@
   * YOU MUST FIND **THE HIDDEN DOOR** TO ESCAPE!!!
   
  * FIRST SCENE
+  YOU WILL BE STARTED FROM THIS SCENE
   ![firstscene](https://user-images.githubusercontent.com/69891604/92984947-488d5280-f4e9-11ea-817a-9b467fe8e276.PNG)
   
   * ITEM INVENTORY 
+  YOU MAY PICK THE ITEM IF IT IS POSSIBLE. IF NOT, THE ITEM CANNOT BE PICKED
+   ![inventory](https://user-images.githubusercontent.com/69891604/92985103-8474e780-f4ea-11ea-8b6b-8c23c8f46b6b.PNG)
+   
+  * KEY PAD
+  YOU MAY USE THE HINT TO OPEN THE KEYPAD
