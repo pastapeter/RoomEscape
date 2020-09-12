@@ -18,3 +18,4 @@
    
   * KEY PAD
   YOU MAY USE THE HINT TO OPEN THE KEYPAD
+  ![keypad](https://user-images.githubusercontent.com/69891604/92985160-10870f00-f4eb-11ea-8417-bb3ec873bd3d.PNG)
